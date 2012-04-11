@@ -22,6 +22,7 @@ $CHEBI = "http://purl.org/obo/owl/CHEBI#";
 $PRO = $OBO;
 $VO = $OBO;
 $CL = $OBO;
+$UNIPROT = "http://www.uniprot.org/uniprot/";
 
 $ONTO = "http://rdf.farmbio.uu.se/chembl/onto/#";
 $ACT = $rooturi . "activity/";
